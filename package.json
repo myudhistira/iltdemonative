@@ -1,0 +1,22 @@
+{
+  "name": "hapiiltcc02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myudhistira/iltdemonative.git"
+  },
+  "author": "yudhi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1"
+  }
+}
